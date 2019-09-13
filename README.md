@@ -1,3 +1,5 @@
+Hello, my name is Christos, I'm currently learning C++ and I like sun pizza
+
 # Welcome to GitHub
 
 Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
